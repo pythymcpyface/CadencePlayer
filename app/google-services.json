@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575265806805",
+    "project_id": "cadenceplayer-31394",
+    "storage_bucket": "cadenceplayer-31394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575265806805:android:c1a679f91307489cea855c",
+        "android_client_info": {
+          "package_name": "com.example.cadenceplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575265806805-u5e0i7t64nc5pg2fd0cladqe0cdif202.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cadenceplayer",
+            "certificate_hash": "6c8b4b039d786ce25b29c05b95e2e61119e7ba91"
+          }
+        },
+        {
+          "client_id": "575265806805-l44grv086ir8rppcp8avvb1esqsik06g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalSbkvXZUANl4BqhSXZZSLbUsjGWCndo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575265806805-l44grv086ir8rppcp8avvb1esqsik06g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

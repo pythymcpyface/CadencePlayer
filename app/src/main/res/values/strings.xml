@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CadencePlayer</string>
+    <string name="com_spotify_sdk_redirect_scheme">cadence</string>
+    <string name="com_spotify_sdk_redirect_host">player</string>
+    <string name="com_spotify_sdk_client_id">YOUR-SPOTIFY-CLIENT-ID</string>
+    <string name="com_spotify_sdk_code_verifier">YOUR-CODE-VERIFIER</string>
+    <string name="connected">Connected to Spotify</string>
+    <string name="disconnected">Not connected to Spotify</string>
+    <string name="connecting">Connecting to Spotify</string>
+</resources>

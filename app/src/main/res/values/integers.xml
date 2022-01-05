@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="sample_rate">512</integer> <!-- Must be power of 2 (2**n) -->
+    <integer name="max_bpm">300</integer>
+    <integer name="min_bpm">20</integer>
+    <integer name="update_interval">512</integer>
+    <integer name="bound">2</integer>
+    <integer name="AUTH_TOKEN_REQUEST_CODE">0x10</integer>
+</resources>
