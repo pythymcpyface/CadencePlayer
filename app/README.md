@@ -9,7 +9,7 @@ To install, download the .zip of this project
 ## Usage
 Replace the three variables in the app level build.gradle file shown below with your personal
 
-Help on creating a client ID and redirect uri can be found here: [Spotify Documentation] (https://developer.spotify.com/documentation/)
+Help on creating a client ID and redirect uri can be found here: [Spotify Documentation](https://developer.spotify.com/documentation/)
 
 ```gradle
 buildConfigField "String", "SPOTIFY_CLIENT_ID", "\"YOUR-CLIENT-ID\""
