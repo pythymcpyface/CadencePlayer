@@ -17,9 +17,8 @@ buildConfigField "String", "SPOTIFY_REDIRECT_URI_PKCE", "\"YOUR-REDIRECT-URI\""
 buildConfigField "String", "SPOTIFY_CODE_VERIFIER", "\"YOUR-VERIFIER\""
 ```
 
-Click the screenshot below for a video demonstrating the app:
+Below is a gif demonstrating the app:
 
-<a href="https://github.com/pythymcpyface/CadencePlayer/blob/master/app/Screen%20Recordings/CadencePlayer.mp4">
-         <img title="Cadence Player" src="https://github.com/pythymcpyface/CadencePlayer/blob/master/app/Screenshots/Playlists.jpg"
-         width="350">
-      </a>
+<p align="center">
+  <img src="https://github.com/pythymcpyface/CadencePlayer/blob/master/app/Screen%20Recordings/CadencePlayer.gif" width="350" title="Cadence Player">
+</p>
