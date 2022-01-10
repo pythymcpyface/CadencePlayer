@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
 
         PermissionsHandler(this).requestPermission(this)
 
-        MediaSessionHandler(this).getMediaSession()
+//        MediaSessionHandler(this).getMediaSession()
 
         prepareSpotifyViewModel()
 

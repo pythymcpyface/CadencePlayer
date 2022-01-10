@@ -167,7 +167,7 @@ class SpotifyAppRemoteApi private constructor(private val connectionParams: Conn
 
             val connectionParams = ConnectionParams.Builder(CLIENT_ID)
                 .setRedirectUri(REDIRECT_URI)
-//                .showAuthView(true)
+                .showAuthView(true)
                 .build()
             return SpotifyAppRemoteApi(connectionParams)
         }

@@ -24,16 +24,16 @@ android {
     buildTypes {
         debug {
             debuggable true
-            buildConfigField "String", "SPOTIFY_CLIENT_ID", "\"YOUR-SPOTIFY-CLIENT-ID\""
-            buildConfigField "String", "SPOTIFY_REDIRECT_URI_PKCE", "\"cadence://player\""
-            buildConfigField "String", "SPOTIFY_CODE_VERIFIER", "\"YOUR-CODE-VERIFIER\""
+            buildConfigField "String", "SPOTIFY_CLIENT_ID", "\"YOUR-CLIENT-ID\""
+            buildConfigField "String", "SPOTIFY_REDIRECT_URI_PKCE", "\"YOUR-REDIRECT-URI\""
+            buildConfigField "String", "SPOTIFY_CODE_VERIFIER", "\"YOUR-VERIFIER\""
         }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            buildConfigField "String", "SPOTIFY_CLIENT_ID", "\"YOUR-SPOTIFY-CLIENT-ID\""
-            buildConfigField "String", "SPOTIFY_REDIRECT_URI_PKCE", "\"cadence://player\""
-            buildConfigField "String", "SPOTIFY_CODE_VERIFIER", "\"YOUR-CODE-VERIFIER\""
+            buildConfigField "String", "SPOTIFY_CLIENT_ID", "\"YOUR-CLIENT-ID\""
+            buildConfigField "String", "SPOTIFY_REDIRECT_URI_PKCE", "\"YOUR-REDIRECT-URI\""
+            buildConfigField "String", "SPOTIFY_CODE_VERIFIER", "\"YOUR-VERIFIER\""
         }
     }
     compileOptions {

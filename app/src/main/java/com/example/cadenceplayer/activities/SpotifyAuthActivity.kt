@@ -8,8 +8,8 @@ import com.adamratzman.spotify.SpotifyClientApi
 import com.adamratzman.spotify.SpotifyScope
 import com.adamratzman.spotify.auth.pkce.AbstractSpotifyPkceLoginActivity
 import com.example.cadenceplayer.BuildConfig
-import com.example.cadenceplayer.MainActivity
 import com.example.cadenceplayer.CadencePlayer
+import com.example.cadenceplayer.MainActivity
 
 @RequiresApi(Build.VERSION_CODES.M)
 class SpotifyAuthActivity: AbstractSpotifyPkceLoginActivity() {
